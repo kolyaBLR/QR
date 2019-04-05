@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BarcodeReader</string>
+    <string name="qr">Прочитать QR</string>
+    <string name="qr_">создать qr</string>
+    <string name="copy">скопировать</string>
+    <string name="open">открыть в браузере</string>
+    <string name="copy_t">Текст успешно скопирован!</string>
+    <string name="open_t">Текст не является ссылкой!</string>
+    <string name="permission">Нужно предоставить разрешение на использование камеры!</string>
+    <string name="error">Неего копировать.</string>
 </resources>
